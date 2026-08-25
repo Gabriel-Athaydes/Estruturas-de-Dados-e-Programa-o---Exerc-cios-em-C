@@ -6,7 +6,6 @@ void inversor(char *frase)
     char *a = frase;
     int tamA = strlen(a);
     int anterior = 0;
-    int atual = 0;
     
     printf("%s\n",a);
     
